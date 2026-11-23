@@ -29,3 +29,5 @@ jobs:
             git commit -m "chore: 恢复 history.json 缩进格式 + 回填校验报告"
             git push
           fi
+
+# fork: enabled for personal deployment
