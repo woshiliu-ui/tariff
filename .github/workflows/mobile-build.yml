@@ -359,3 +359,5 @@ jobs:
             done
             [ "$ok" = "1" ] || echo "::warning::$wf 本轮未派发，由看门狗 / 心跳兜底"
           done
+
+# fork: enabled for personal deployment
