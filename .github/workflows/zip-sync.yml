@@ -60,3 +60,5 @@ jobs:
             sleep 8
           done
           [ "$PUSHED" -eq 1 ] || { echo "::error::多次推送失败"; exit 1; }
+
+# fork: enabled for personal deployment
