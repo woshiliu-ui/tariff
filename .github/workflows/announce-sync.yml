@@ -163,3 +163,5 @@ jobs:
           else:
               raise SystemExit("公告提交失败")
           PY
+
+# fork: enabled for personal deployment
