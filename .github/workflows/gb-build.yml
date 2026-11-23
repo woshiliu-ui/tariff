@@ -56,3 +56,5 @@ jobs:
           done
           echo "::error::连续 5 次 push 均失败"
           exit 1
+
+# fork: enabled for personal deployment
