@@ -13,7 +13,7 @@
 """
 import json, os, sys, urllib.request, urllib.error
 
-OWNER = "rdtscx"
+OWNER = "woshiliu-ui"
 REPO = "tariff"
 BRANCH = "main"
 TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN") or ""
