@@ -1266,7 +1266,7 @@ button:focus:not(:focus-visible),a:focus:not(:focus-visible){outline:none}
         <ul class="cktips">
           <li>配置<b>只存在你本机浏览器</b>，与「推送中心」共用同一份，不上传任何服务器</li>
           <li>钉钉 / 飞书 可由本页直连发送并测试；企业微信与邮箱需导出给脚本执行</li>
-          <li><b>要让选择影响每天 8 点 / 20 点的定时推送</b>：把它填进<a href="https://github.com/rdtscx/tariff/settings/variables/actions" target="_blank" rel="noopener">仓库 Variables ↗</a>（PUSH_OPS / PUSH_PROVS）。不填则定时推送维持原样，只存在本机</li>
+          <li><b>要让选择影响每天 8 点 / 20 点的定时推送</b>：把它填进<a href="https://github.com/woshiliu-ui/tariff/settings/variables/actions" target="_blank" rel="noopener">仓库 Variables ↗</a>（PUSH_OPS / PUSH_PROVS）。不填则定时推送维持原样，只存在本机</li>
           <li>想立即抓取最新数据：<a id="psGh" href="#" target="_blank" rel="noopener">打开 Actions 页 ↗</a></li>
         </ul>
       </div>
@@ -2277,7 +2277,7 @@ function dvHtml(it){
 }
 function closeModal(){ document.getElementById("mask").classList.remove("on"); }
 /* ---------- 一键触发云端抓取（令牌仅存本机 localStorage） ---------- */
-var CK_OWNER = "rdtscx";
+var CK_OWNER = "woshiliu-ui";
 var CK_REPO  = "tariff";
 var CK_API   = "https://api.github.com/repos/" + CK_OWNER + "/" + CK_REPO;
 function ckTkKey(){ return "ghpat__" + CK_REPO + "__" + CK_WF; }
@@ -2306,7 +2306,7 @@ function ckTrigger(){
   if(!tk){ ckTkOpen(""); return; }
   ckDispatch(tk);
 }
-function ckGhUrl(){ return "https://github.com/rdtscx/tariff/actions/workflows/" + CK_WF; }
+function ckGhUrl(){ return "https://github.com/woshiliu-ui/tariff/actions/workflows/" + CK_WF; }
 /* 抓取进度用提示条呈现（原检测弹窗已移除） */
 function ckSetStat(txt){ try{ toast(String(txt || "").replace(/<[^>]+>/g, "")); }catch(e){} }
 function ckSetMeta(){}
@@ -3067,7 +3067,7 @@ psLoad();
   var m = document.getElementById("psMask");
   if(!m){ window.open("../push-center.html", "_blank"); return; }
   var g = document.getElementById("psGh");
-  if(g){ g.href = "https://github.com/rdtscx/tariff/actions/workflows/" + CK_WF; }
+  if(g){ g.href = "https://github.com/woshiliu-ui/tariff/actions/workflows/" + CK_WF; }
   m.classList.add("on");
 }
 function psClose(){
