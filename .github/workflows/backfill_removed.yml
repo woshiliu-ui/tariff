@@ -39,3 +39,5 @@ jobs:
             git commit -m "backfill: 回填历史变更中未存快照的业务字段"
             git push
           fi
+
+# fork: enabled for personal deployment
