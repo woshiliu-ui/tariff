@@ -507,3 +507,5 @@ jobs:
               print("[场次标记][严重] 提交失败，下一轮会重复推送: %s" % str(e)[:160])
               raise SystemExit(1)
           PYEOF
+
+# fork: enabled for personal deployment
