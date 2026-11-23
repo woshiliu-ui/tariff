@@ -125,3 +125,5 @@ jobs:
           check gb-build gb 7800
           check unicom-build unicom 7800
           echo "三家检查完成"
+
+# fork: enabled for personal deployment
