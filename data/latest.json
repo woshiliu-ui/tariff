@@ -1,207 +1,207 @@
 {
-  "updated": "2026-11-23 11:45:51",
+  "updated": "2026-11-23 13:45:06",
   "default": "beijing",
   "sections": [
     {
       "section": "quanguo",
       "name": "全网(全国)",
       "total": 2876,
-      "updated": "2026-11-23 11:26:03"
+      "updated": "2026-11-23 13:21:57"
     },
     {
       "section": "anhui",
       "name": "安徽",
       "total": 1114,
-      "updated": "2026-11-23 11:31:30"
+      "updated": "2026-11-23 13:31:33"
     },
     {
       "section": "beijing",
       "name": "北京",
       "total": 1384,
-      "updated": "2026-11-23 11:26:37"
+      "updated": "2026-11-23 13:22:39"
     },
     {
       "section": "chongqing",
       "name": "重庆",
       "total": 1288,
-      "updated": "2026-11-23 11:39:22"
+      "updated": "2026-11-23 13:39:18"
     },
     {
       "section": "fujian",
       "name": "福建",
       "total": 1595,
-      "updated": "2026-11-23 11:33:10"
+      "updated": "2026-11-23 13:32:17"
     },
     {
       "section": "gansu",
       "name": "甘肃",
       "total": 1447,
-      "updated": "2026-11-23 11:43:40"
+      "updated": "2026-11-23 13:42:38"
     },
     {
       "section": "guangdong",
       "name": "广东",
       "total": 3580,
-      "updated": "2026-11-23 11:37:07"
+      "updated": "2026-11-23 13:37:42"
     },
     {
       "section": "guangxi",
       "name": "广西",
       "total": 1205,
-      "updated": "2026-11-23 11:37:56"
+      "updated": "2026-11-23 13:38:23"
     },
     {
       "section": "guizhou",
       "name": "贵州",
       "total": 522,
-      "updated": "2026-11-23 11:40:20"
+      "updated": "2026-11-23 13:40:33"
     },
     {
       "section": "hainan",
       "name": "海南",
       "total": 935,
-      "updated": "2026-11-23 11:38:18"
+      "updated": "2026-11-23 13:38:47"
     },
     {
       "section": "hebei",
       "name": "河北",
       "total": 2494,
-      "updated": "2026-11-23 11:27:29"
+      "updated": "2026-11-23 13:23:35"
     },
     {
       "section": "heilongjiang",
       "name": "黑龙江",
       "total": 481,
-      "updated": "2026-11-23 11:29:33"
+      "updated": "2026-11-23 13:28:08"
     },
     {
       "section": "henan",
       "name": "河南",
-      "total": 4445,
-      "updated": "2026-11-23 11:35:31"
+      "total": 4448,
+      "updated": "2026-11-23 13:34:27"
     },
     {
       "section": "hubei",
       "name": "湖北",
       "total": 1228,
-      "updated": "2026-11-23 11:35:56"
+      "updated": "2026-11-23 13:34:58"
     },
     {
       "section": "hunan",
       "name": "湖南",
       "total": 1579,
-      "updated": "2026-11-23 11:36:22"
+      "updated": "2026-11-23 13:36:40"
     },
     {
       "section": "jiangsu",
       "name": "江苏",
       "total": 1756,
-      "updated": "2026-11-23 11:30:29"
+      "updated": "2026-11-23 13:29:36"
     },
     {
       "section": "jiangxi",
       "name": "江西",
       "total": 2501,
-      "updated": "2026-11-23 11:33:56"
+      "updated": "2026-11-23 13:33:15"
     },
     {
       "section": "jilin",
       "name": "吉林",
       "total": 920,
-      "updated": "2026-11-23 11:29:11"
+      "updated": "2026-11-23 13:27:44"
     },
     {
       "section": "liaoning",
       "name": "辽宁",
       "total": 924,
-      "updated": "2026-11-23 11:28:38"
+      "updated": "2026-11-23 13:25:56"
     },
     {
       "section": "neimenggu",
       "name": "内蒙古",
       "total": 955,
-      "updated": "2026-11-23 11:28:12"
+      "updated": "2026-11-23 13:25:27"
     },
     {
       "section": "ningxia",
       "name": "宁夏",
       "total": 1317,
-      "updated": "2026-11-23 11:45:22"
+      "updated": "2026-11-23 13:44:34"
     },
     {
       "section": "qinghai",
       "name": "青海",
       "total": 514,
-      "updated": "2026-11-23 11:43:57"
+      "updated": "2026-11-23 13:43:07"
     },
     {
       "section": "shaanxi",
       "name": "陕西",
       "total": 712,
-      "updated": "2026-11-23 11:42:54"
+      "updated": "2026-11-23 13:42:08"
     },
     {
       "section": "shandong",
       "name": "山东",
       "total": 1820,
-      "updated": "2026-11-23 11:34:56"
+      "updated": "2026-11-23 13:33:51"
     },
     {
       "section": "shanghai",
       "name": "上海",
       "total": 1046,
-      "updated": "2026-11-23 11:29:57"
+      "updated": "2026-11-23 13:28:51"
     },
     {
       "section": "shanxi",
       "name": "山西",
       "total": 1359,
-      "updated": "2026-11-23 11:27:50"
+      "updated": "2026-11-23 13:24:15"
     },
     {
       "section": "sichuan",
       "name": "四川",
       "total": 1644,
-      "updated": "2026-11-23 11:39:56"
+      "updated": "2026-11-23 13:40:11"
     },
     {
       "section": "tianjin",
       "name": "天津",
       "total": 682,
-      "updated": "2026-11-23 11:26:55"
+      "updated": "2026-11-23 13:23:04"
     },
     {
       "section": "xinjiang",
       "name": "新疆",
       "total": 1093,
-      "updated": "2026-11-23 11:45:51"
+      "updated": "2026-11-23 13:45:06"
     },
     {
       "section": "xizang",
       "name": "西藏",
       "total": 669,
-      "updated": "2026-11-23 11:42:28"
+      "updated": "2026-11-23 13:41:37"
     },
     {
       "section": "yunnan",
       "name": "云南",
       "total": 1527,
-      "updated": "2026-11-23 11:42:10"
+      "updated": "2026-11-23 13:41:06"
     },
     {
       "section": "zhejiang",
       "name": "浙江",
       "total": 1325,
-      "updated": "2026-11-23 11:30:58"
+      "updated": "2026-11-23 13:31:14"
     }
   ],
   "quanguo_total": 2876,
-  "prov_total": 43599,
+  "prov_total": 43602,
   "prov_dist": {
     "个人资费": {
       "营销活动": 12542,
       "套餐": 12154,
-      "加装包": 14941,
+      "加装包": 14944,
       "其他业务": 573,
       "流量包": 162
     },
@@ -404,12 +404,12 @@
       }
     },
     "henan": {
-      "total": 4445,
-      "personal": 3805,
+      "total": 4448,
+      "personal": 3808,
       "gq": 640,
       "dist": {
         "个人资费": {
-          "加装包": 981,
+          "加装包": 984,
           "营销活动": 824,
           "套餐": 1803,
           "其他业务": 197
